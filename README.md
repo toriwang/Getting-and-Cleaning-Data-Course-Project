@@ -10,6 +10,6 @@ Repository structure
  
  Running the run_analysis.R script
  
- > 1) clone this repository : git clone https://github.com/toriwang/GettingAndCleaningData
-  > 2) change directory into the GettingAndCleaningData directory
+ > 1) clone this repository : git clone https://github.com/toriwang/Getting-and-Cleaning-Data-Course-Project
+  > 2) change directory into the Getting-and-Cleaning-Data-Course-Project directory
   > 3) start R from the command line
